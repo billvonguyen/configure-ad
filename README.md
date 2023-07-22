@@ -121,3 +121,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/lUWI9Gl.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
 
 
+
+
+
